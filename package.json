@@ -1,6 +1,6 @@
 {
   "name": "bug-free-umbrella",
-  "repository": {"type": "git" , "URL": "git://github.com/Tejaswini-Gowda/bug-free-umbrella.git"},
+  "repository": {"type": "git" , "url": "git://github.com/Tejaswini-Gowda/bug-free-umbrella.git"},
   "description": "Boilerplate NodeJS webapp codebase",
   "version": "0.0.1",
   "private": false,
